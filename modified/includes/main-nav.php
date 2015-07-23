@@ -1,12 +1,15 @@
 <!-- Navigation Bar Starts -->
 <div class="navbar navbar-inverse navbar-fixed-top">
+	<ul class="nav navbar-nav navbar-right">
+				<li><a href="index.php">Home</a></li>
+				<li><a href="contact.php">Contact</a></li>
+				<li><a href="search.php">Search</span></li>
+			</ul>
+
+
 	<div class="container">
 		<div class="col-md-12">
-			<ul class="nav navbar-nav navbar-right">
-				<li><a href="index.php">HOME</a></li>
-				<li><a href="contact.php">CONTACT</a></li>
-				<li><a href="search.php">SEARCH</a></span></li>
-			</ul>
+			
 		</div>
 	</div>
 </div>

@@ -1,7 +1,9 @@
 ﻿<?php include_once("includes/header.php"); ?>
 <body>
 <?php include_once("includes/main-nav.php"); ?>
-<?php include_once("includes/banner.php"); ?>
+<div class="homepage-head">
+	<?php include_once("includes/banner.php"); ?>
+</div>
 
 <!--UPCOMING EVENT-->
 <div class="highlight-bg has-margin-bottom">

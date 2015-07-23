@@ -271,26 +271,32 @@ background-color: #E7E0D7;
 }
 
 /*========== 2. NAVIGATION BAR ==============*/
-.blkBar a {
-	color:#CCCCCC;
-	text-decoration:none;
-}
-.blkBar a:hover, a:focus {
-	color:#E95D00;
-	text-decoration:none;
-}
-
 
 @media (min-width:768px) {
 .navbar-header {
- max-width:225px;
+ max-width:160px;
+}
+.navbar-right .dropdown-menu {
+  border: 0px  !important;
+}
+}
+
+@media (max-width:768px) {
+
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  min-height: 100%;
+  background: #FFF;
 }
 }
  @media (min-width:992px) {
 .navbar-header {
- max-width:350px;
+ max-width:280px;
 }
 }
+
+
+
 .navbar-default {
 	background-color: #FFF; /*IE Fix*/
 	background-color: rgba(255, 255, 255, 0.7);
@@ -307,16 +313,16 @@ background-color: #E7E0D7;
 	transition: all 0.3s;
 }
 .navbar-brand {
-	height:120px;
+	height:85px;
 }
-.navbar-brand img {
+.navbar-brand-off img {
 	max-height:100%;
 }
 .navbar {
 	min-height: 85px;
 }
 .navbar-nav {
-	margin: 45px 0;
+	margin: 25px 0;
 }
 .nav>li>a {
 	padding: 7px 18px;
@@ -340,7 +346,7 @@ background-color: #E7E0D7;
 	border-radius:5px;
 }
 .navbar-toggle {
-	margin-top: 35px;
+	margin-top: 17px;
 }
 
 /*== NAVBAR ON SCROLL ==*/
@@ -348,7 +354,7 @@ background-color: #E7E0D7;
 
 @media (min-width:992px) {
  .navbar-brand img {
- height: 100px;
+ height: 60px;
 }
  .navbar-default.shrink {
 background-color: rgba(255, 255, 255, 1);
@@ -357,16 +363,16 @@ box-shadow: 0 2px 2px -1px rgba(0, 0, 0, .1);
 -webkit-box-shadow: 0 2px 2px -1px rgba(0, 0, 0, .1);
 }
  .shrink .navbar-brand {
- height: 120px;
+ height: 75px;
 }
  .shrink .navbar-brand img {
- height: 120px;
+ height: 45px;
 }
  .navbar.shrink {
  min-height: 50px;
 }
  .shrink .navbar-nav {
- margin: 45px 0;
+ margin: 20px 0;
 }
  .shrink .nav>li>a {
  padding: 7px 15px;
@@ -374,13 +380,13 @@ box-shadow: 0 2px 2px -1px rgba(0, 0, 0, .1);
 }
  @media (max-width:991px) {
  .navbar-brand {
- height: 120px;
+ height: 70px;
 }
  .navbar {
  min-height: 50px;
 }
  .navbar-nav {
- margin: 45px 0;
+ margin: 17px 0;
 }
  .nav>li>a {
 padding: 7px 12px;
@@ -434,23 +440,15 @@ top: 25%;
 .carousel-control .icon-prev, .carousel-control .icon-next, .carousel-control .glyphicon-chevron-left, .carousel-control .glyphicon-chevron-right {
 	top:55%;
 }
-
 .slide-one {
-	background:url(../images/church-bosom.jpg) no-repeat;
-	background-size:cover;
-}
-
-.slide-two {
 	background:url(../images/church-mountain-bg.jpg) no-repeat;
 	background-size:cover;
 }
-
-.slide-three {
+.slide-two {
 	background:url(../images/church-man-sea.jpg) no-repeat;
 	background-size:cover;
 }
-
-.slide-four {
+.slide-three {
 	background:url(../images/church-man-hope.jpg) no-repeat;
 	background-size:cover;
 }
@@ -855,7 +853,7 @@ footer a:hover, footer a:focus {
 
 .subpage-head {
 	background-color:#f9f1e6;
-	padding-top: 150px;
+	padding-top: 80px;
 	padding-bottom: 20px;
 }
 .subpage-head h3 {
@@ -863,7 +861,7 @@ footer a:hover, footer a:focus {
 }
  @media (min-width:992px) {
 .subpage-head {
- padding-top: 150px;
+ padding-top: 110px;
 }
 }
 /*========== 15. BLOG ==============*/
