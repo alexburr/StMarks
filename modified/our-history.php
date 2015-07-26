@@ -1,376 +1,248 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<!-- Meta, title, CSS, favicons, etc. -->
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Our Church is a premium HTML5 Church Website Template with Responsive design. Church Template includes many pages like Bulletin, Programs, events, sermons, ministries, working church contact form etc..">
-<meta name="keywords" content="Church, Website, Template, Bulletin, Programs, Events, Themeforest, Premium, Charity, Non Profit ">
-<meta name="author" content="Surjith SM">
-<title>ST MARK'S COPTIC ORTHODOX CHURCH ROCHESTER | OUR HISTORY</title>
-<!-- Bootstrap core CSS -->
-<link href="css/bootstrap.min.css" rel="stylesheet">
-<!-- Church Template CSS -->
-<link href="css/church.css" rel="stylesheet">
-<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
-<!--[if lt IE 9]>
-  <script src="js/html5shiv.js"></script>
-  <script src="js/respond.min.js"></script>
-<![endif]-->
-
-<!-- Favicons -->
-<link rel="shortcut icon" href="images/favicon.png">
-
-<!-- Custom Google Font : Montserrat and Droid Serif -->
-
-<link href="http://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
-<link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700' rel='stylesheet' type='text/css'>
-</head>
-<body>
-	<?php include_once("includes/main-nav.php"); ?>
-
-    
-  </div>
-</div>
-<!--// Navbar Ends--> 
-
-<!--SUBPAGE HEAD-->
-
-<div class="subpage-head has-margin-bottom">
-  <div class="container">
-    <h3>Our History</h3>
-    <p class="lead">Who founded the Coptic Orthodox Church? </p>
-  </div>
-</div>
-
-<!-- // END SUBPAGE HEAD -->
-
+<?php include_once("includes/header.php"); ?>
 <div class="container has-margin-bottom">
-  <div class="row">
-    <div class="col-md-9 has-margin-bottom">
-    <img src="images/st-mark.jpg" width="100%">
-      <p class="lead"> 
+	<div class="row">
+		<div class="col-md-9 has-margin-bottom">
+			<img src="images/st-mark.jpg" width="100%">
+			<p class="lead"> 
 
-The Coptic Church or the Church of Alexandria is called "See of 
+			The Coptic Church or the Church of Alexandria is called "See of 
 
-St. Mark", one of the earliest of four sees: Jerusalem, Antioch, 
+			St. Mark", one of the earliest of four sees: Jerusalem, Antioch, 
 
-Alexandria, and Rome.</p>
+			Alexandria, and Rome.</p>
 
-<h4>About the Founder, St. Mark</h4>
+			<h4>About the Founder, St. Mark</h4>
 
-<p>The Copts are proud of the apostolicity of their Church, whose 
+			<p>The Copts are proud of the apostolicity of their Church, whose 
 
-founder is St. Mark; one of the seventy Apostles (Mk 10:10), and one 
+			founder is St. Mark; one of the seventy Apostles (Mk 10:10), and one 
 
-of the four Evangelists. He is regarded by the Coptic hierarchy, as the 
+			of the four Evangelists. He is regarded by the Coptic hierarchy, as the 
 
-first of their unbroken 117 Patriarchs, and also the first of a stream of 
+			first of their unbroken 117 Patriarchs, and also the first of a stream of 
 
-Egyptian martyrs.</p>
+			Egyptian martyrs.</p>
 
-<p>This apostolicity was not only furnished on grounds of its foundation, 
+			<p>This apostolicity was not only furnished on grounds of its foundation, 
 
-but rather by the persistence of the Church in observing the same 
+			but rather by the persistence of the Church in observing the same 
 
-faith received by the Apostle and his successors, the Holy Fathers.</p>
+			faith received by the Apostle and his successors, the Holy Fathers.</p>
 
-<h4>St. Mark's Biography</h4> 
+			<h4>St. Mark's Biography</h4> 
 
-<p>St. Mark was an African native of Jewish parents who belonged to the 
+			<p>St. Mark was an African native of Jewish parents who belonged to the 
 
-Levites' tribe. His family lived in Cyrenaica until they were attacked 
+			Levites' tribe. His family lived in Cyrenaica until they were attacked 
 
-by barbarians, and lost their property. Consequently, they moved to 
+			by barbarians, and lost their property. Consequently, they moved to 
 
-Jerusalem with their child John Mark (Acts 12:12, 25; 15:37). He was 
+			Jerusalem with their child John Mark (Acts 12:12, 25; 15:37). He was 
 
-given a good education and became conversant in both Greek and 
+			given a good education and became conversant in both Greek and 
 
-Latin in addition to Hebrew. His family was highly religious and in 
+			Latin in addition to Hebrew. His family was highly religious and in 
 
-close relationship with the Lord Jesus Christ.</p>
+			close relationship with the Lord Jesus Christ.</p>
 
-<p>His cousin was St. Barnabas and his father's cousin was St. Peter. 
+			<p>His cousin was St. Barnabas and his father's cousin was St. Peter. 
 
-His mother, Mary, played an important part in the early days of the 
+			His mother, Mary, played an important part in the early days of the 
 
-Church in Jerusalem. The upper room in her house became the first 
+			Church in Jerusalem. The upper room in her house became the first 
 
-Christian church in the world where the Lord Jesus Christ Himself 
+			Christian church in the world where the Lord Jesus Christ Himself 
 
-instituted the Holy Eucharist (Mk 14:12-26). Also, this is the same 
+			instituted the Holy Eucharist (Mk 14:12-26). Also, this is the same 
 
-place where the Lord appeared to the disciples after His resurrection 
+			place where the Lord appeared to the disciples after His resurrection 
 
-and His Holy Spirit came upon them.</p>
+			and His Holy Spirit came upon them.</p>
 
-<p>Young Mark was always associated with the Lord, who choose him 
+			<p>Young Mark was always associated with the Lord, who choose him 
 
-as one of the seventy. He is mentioned in the Holy Scriptures in a 
+			as one of the seventy. He is mentioned in the Holy Scriptures in a 
 
-number of events related with the Lord. For example, he was present 
+			number of events related with the Lord. For example, he was present 
 
-at the wedding of Cana of Galilee, and was the man who had been 
+			at the wedding of Cana of Galilee, and was the man who had been 
 
-carrying the jar when the two disciples went to prepare a place for the 
+			carrying the jar when the two disciples went to prepare a place for the 
 
-celebration of the Passover (Mk 14:13-14; Lk 22:11).</p>
+			celebration of the Passover (Mk 14:13-14; Lk 22:11).</p>
 
-<h4>St. Mark and the Lion</h4>
+			<h4>St. Mark and the Lion</h4>
 
-<p>The voice of the lion is the symbol of St. Mark for two reasons:</p>
+			<p>The voice of the lion is the symbol of St. Mark for two reasons:</p>
 
-<p>1. He begins his Holy Gospel by describing John the Baptist as a 
+			<p>1. He begins his Holy Gospel by describing John the Baptist as a 
 
-lion roaring in the desert (Mk 1:3).</p>
+			lion roaring in the desert (Mk 1:3).</p>
 
-<p>2. His famous story with lion, as related to us by Severus Ebn-El-
-Mokafa: Once a lion and lioness appeared to John Mark and 
+			<p>2. His famous story with lion, as related to us by Severus Ebn-El-
+			Mokafa: Once a lion and lioness appeared to John Mark and 
 
-his father Arostalis while they were traveling in Jordan. The 
+			his father Arostalis while they were traveling in Jordan. The 
 
-father was very scared and begged his son to escape, while he 
+			father was very scared and begged his son to escape, while he 
 
-awaited his fate. John Mark assured his father that Jesus Christ 
+			awaited his fate. John Mark assured his father that Jesus Christ 
 
-would save them and began to pray. The two beasts fell dead 
+			would save them and began to pray. The two beasts fell dead 
 
-and as a result of this miracle, the father believed in Christ.<p>
+			and as a result of this miracle, the father believed in Christ.<p>
 
-<h4>Preaching with the Apostles</h4>
+			<h4>Preaching with the Apostles</h4>
 
-<p>At first, St. Mark accompanied St. Peter on his missionary journeys 
+			<p>At first, St. Mark accompanied St. Peter on his missionary journeys 
 
-inside Jerusalem and Judea. Then he accompanied St. Paul and St. 
+			inside Jerusalem and Judea. Then he accompanied St. Paul and St. 
 
-Barnabas on their first missionary journey to Antioch, Cyprus and 
+			Barnabas on their first missionary journey to Antioch, Cyprus and 
 
-Asia Minor, but for some reason he left them and returned home 
+			Asia Minor, but for some reason he left them and returned home 
 
-(Acts 13:13). On their second trip, St. Paul refused to take him along 
+			(Acts 13:13). On their second trip, St. Paul refused to take him along 
 
-because he left them on the previous mission; for this reason St. 
+			because he left them on the previous mission; for this reason St. 
 
-Barnabas was separated from St. Paul and went to Cyprus with his 
+			Barnabas was separated from St. Paul and went to Cyprus with his 
 
-cousin St. Mark (Acts 15:36-41). There, he departed in the Lord and 
+			cousin St. Mark (Acts 15:36-41). There, he departed in the Lord and 
 
-St. Mark buried him. Afterwards, St. Paul needed St. Mark with him 
+			St. Mark buried him. Afterwards, St. Paul needed St. Mark with him 
 
-and they both preached in Colosse (Col 4:10), Rome (Phil 24; 2 Tim 
+			and they both preached in Colosse (Col 4:10), Rome (Phil 24; 2 Tim 
 
-4:11) and perhaps in Venice.</p>
+			4:11) and perhaps in Venice.</p>
 
-<h4>In Africa</h4>
+			<h4>In Africa</h4>
 
-<p>St. Mark's real labor lay in Africa. He left Rome to Pentapolis, back to 
+			<p>St. Mark's real labor lay in Africa. He left Rome to Pentapolis, back to 
 
-where he was born. After planting the seeds of faith and performing 
+			where he was born. After planting the seeds of faith and performing 
 
-many miracles he traveled to Egypt, through the Oasis, the desert of 
+			many miracles he traveled to Egypt, through the Oasis, the desert of 
 
-Libya, Upper Egypt and then entered Alexandria from its eastern gate 
+			Libya, Upper Egypt and then entered Alexandria from its eastern gate 
 
-in 61 A.D.</p>
+			in 61 A.D.</p>
 
-<p>On his arrival, the strap of his sandal was loose. He went to a shoe 
+			<p>On his arrival, the strap of his sandal was loose. He went to a shoe 
 
-cobbler to mend it. When the cobbler - Anianos - took an awl to work 
+			cobbler to mend it. When the cobbler - Anianos - took an awl to work 
 
-on it, he accidentally pierced his hand and cried aloud "Oh One God". 
+			on it, he accidentally pierced his hand and cried aloud "Oh One God". 
 
-At this utterance, St. Mark rejoiced and after miraculously healing the 
+			At this utterance, St. Mark rejoiced and after miraculously healing the 
 
-man's wound, took courage and began to preach to the hungry ears 
+			man's wound, took courage and began to preach to the hungry ears 
 
-of his convert. The spark was ignited and Anianos took the Apostle 
+			of his convert. The spark was ignited and Anianos took the Apostle 
 
-home with him. He and his family were baptized, and many others 
+			home with him. He and his family were baptized, and many others 
 
-followed.</p>
+			followed.</p>
 
-<p>The spread of Christianity must have been quite remarkable because 
+			<p>The spread of Christianity must have been quite remarkable because 
 
-pagans were furious and fought St. Mark everywhere. Sensing 
+			pagans were furious and fought St. Mark everywhere. Sensing 
 
-danger, the Apostle ordained a Bishop (Anianos), three Priests and 
+			danger, the Apostle ordained a Bishop (Anianos), three Priests and 
 
-seven Deacons to look after the congregation if anything befell him. 
+			seven Deacons to look after the congregation if anything befell him. 
 
-He left Alexandria to Berce, then to Rome, where he met St. Peter 
+			He left Alexandria to Berce, then to Rome, where he met St. Peter 
 
-and St. Paul and remained there until their martyrdom in 64 A.D.
+			and St. Paul and remained there until their martyrdom in 64 A.D.
 
-Upon returning to Alexandria in 65 AD, St. Mark found his people 
+			Upon returning to Alexandria in 65 AD, St. Mark found his people 
 
-firm in faith and thus decided to visit Pentapolis. There, he spent two 
+			firm in faith and thus decided to visit Pentapolis. There, he spent two 
 
-years preaching and performing miracles, ordaining bishops and 
+			years preaching and performing miracles, ordaining bishops and 
 
-priests, and winning more converts.</p>
+			priests, and winning more converts.</p>
 
-<p>Finally, he returned to Alexandria and was overjoyed to find that 
+			<p>Finally, he returned to Alexandria and was overjoyed to find that 
 
-Christians had multiplied so much that they were able to build a 
+			Christians had multiplied so much that they were able to build a 
 
-considerable church in the suburban district of Baucalis.</p>
+			considerable church in the suburban district of Baucalis.</p>
 
-<h4>His Martyrdom</h4>
+			<h4>His Martyrdom</h4>
 
-<p>In the year 68 AD, Easter fell on the same day as the Serapis 
+			<p>In the year 68 AD, Easter fell on the same day as the Serapis 
 
-feast. The furious heathen mob had gathered in the Serapis temple 
+			feast. The furious heathen mob had gathered in the Serapis temple 
 
-at Alexandria and then descended on the Christians who were 
+			at Alexandria and then descended on the Christians who were 
 
-celebrating the Glorous Resurrection at Baucalis. St. Mark was 
+			celebrating the Glorous Resurrection at Baucalis. St. Mark was 
 
-seized, dragged with a rope through the main streets of the city. 
+			seized, dragged with a rope through the main streets of the city. 
 
-Crowds were shouting "the ox must be led to Baucalis," a precipitous 
+			Crowds were shouting "the ox must be led to Baucalis," a precipitous 
 
-place full of rock where they fed the oxen that were used in the 
+			place full of rock where they fed the oxen that were used in the 
 
-sacrifice to idols. At nightfall the saint was thrown into prison, 
+			sacrifice to idols. At nightfall the saint was thrown into prison, 
 
-where he was cheered by the vision of an angel, strengthening him 
+			where he was cheered by the vision of an angel, strengthening him 
 
-saying, "Now your hour has come Mark, the good minister, to receive 
+			saying, "Now your hour has come Mark, the good minister, to receive 
 
-your recompense. Be encouraged, for your name has been written 
+			your recompense. Be encouraged, for your name has been written 
 
-in the book of life." When the angel disappeared, St. Mark thanked 
+			in the book of life." When the angel disappeared, St. Mark thanked 
 
-God for sending His angel to him. Suddenly, the Savior Himself 
+			God for sending His angel to him. Suddenly, the Savior Himself 
 
-appeared and said to him, "Peace be to you Mark, my disciple and 
+			appeared and said to him, "Peace be to you Mark, my disciple and 
 
-evangelist!" St. Mark started to shout, "Oh My Lord Jesus" but the 
+			evangelist!" St. Mark started to shout, "Oh My Lord Jesus" but the 
 
-vision disappeared.</p>
+			vision disappeared.</p>
 
-<p>On the following morning probably during the triumphal procession of 
+			<p>On the following morning probably during the triumphal procession of 
 
-Serapis he was again dragged around the city till death. His bloody 
+			Serapis he was again dragged around the city till death. His bloody 
 
-flesh was torn, and it was their intention to cremate his remains, but 
+			flesh was torn, and it was their intention to cremate his remains, but 
 
-the wind blew and the rain fell in torrents and the populaces disperse. 
+			the wind blew and the rain fell in torrents and the populaces disperse. 
 
-Christians stole his body and secretly buried him in a grave that they 
+			Christians stole his body and secretly buried him in a grave that they 
 
-had engraved on a rock under the altar of the church.</p>
+			had engraved on a rock under the altar of the church.</p>
 
-<h4>His Apostolic acts</h4>
+			<h4>His Apostolic acts</h4>
 
-<p>St. Mark was a broad-minded Apostle. His ministry was quite 
+			<p>St. Mark was a broad-minded Apostle. His ministry was quite 
 
-productive and covered large field of activities. These include:</p>
+			productive and covered large field of activities. These include:</p>
 
-<p>1. Preaching in Egypt, Pentapolis, Judea, Asia Minor, and Italy 
+			<p>1. Preaching in Egypt, Pentapolis, Judea, Asia Minor, and Italy 
 
-during which time he ordained Bishops, Priests, and Deacons.</p> 
+			during which time he ordained Bishops, Priests, and Deacons.</p> 
 
-<p>2. Establishing the "School of Alexandria" which defended 
+			<p>2. Establishing the "School of Alexandria" which defended 
 
-Christianity against philosophical school of Alexandria and 
+			Christianity against philosophical school of Alexandria and 
 
-conceived a large number of great Fathers. </p>
+			conceived a large number of great Fathers. </p>
 
-<p>3. Writing the Divine Liturgy of the Holy Eucharist which was 
+			<p>3. Writing the Divine Liturgy of the Holy Eucharist which was 
 
-modified later by St. Cyril to the Divine Liturgy known today as 
+			modified later by St. Cyril to the Divine Liturgy known today as 
 
-the Divine Liturgy of St. Cyril.</p>
+			the Divine Liturgy of St. Cyril.</p>
 
-<p>Ref: http://www.suscopts.org/</p>
-     
-    </div>
-    <!--// col md 9--> 
-    
- <?php include_once("includes/third-upcoming-events.php"); ?>
+			<p>Ref: http://www.suscopts.org/</p>
 
-    </div>
-  </div>
+		</div>
+		<!--// col md 9--> 
+		<?php include_once("includes/third-upcoming-events.php"); ?>
+	</div>
 </div>
-
-
-<!-- SUBSCRIBE -->
-<div class="highlight-bg">
-  <div class="container">
-    <div class="row">
-      <form action="subscribe.php" method="post" class="form subscribe-form" role="form" id="subscribeForm">
-        <div class="form-group col-md-3 hidden-sm">
-          <h5 class="susbcribe-head"> SUBSCRIBE <span>TO OUR NEWSLETTER</span></h5>
-        </div>
-        <div class="form-group col-sm-8 col-md-6">
-          <label class="sr-only">Email address</label>
-          <input type="email" class="form-control input-lg" placeholder="Enter email" name="email" id="address" data-validate="validate(required, email)" required>
-          <span class="help-block" id="result"></span> </div>
-        <div class="form-group col-sm-4 col-md-3">
-          <button type="submit" class="btn btn-lg btn-primary btn-block">Subscribe Now →</button>
-        </div>
-      </form>
-    </div>
-  </div>
-</div>
-<!-- END SUBSCRIBE --> 
 <?php include_once("includes/footer.php"); ?>
-<!-- Bootstrap core JavaScript
-================================================== --> 
-<!-- Placed at the end of the document so the pages load faster --> 
-<script src="js/jquery.js"></script> 
-<script src="js/bootstrap.min.js"></script> 
-<script src="js/ketchup.all.js"></script> 
-
-<!--============== SUBSCRIBE FORM =================--> 
-
-<script>
-
-$(function(){
- var shrinkHeader = 300;
-  $(window).scroll(function() {
-    var scroll = getCurrentScroll();
-      if ( scroll >= shrinkHeader ) {
-           $('.navbar').addClass('shrink');
-        }
-        else {
-            $('.navbar').removeClass('shrink');
-        }
-  });
-function getCurrentScroll() {
-    return window.pageYOffset || document.documentElement.scrollTop;
-    }
-});
-
-</script> 
-
-<!--============== SUBSCRIBE FORM =================--> 
-
-<script>
-$(document).ready(function() {
-	$('#subscribeForm').ketchup().submit(function() {
-		if ($(this).ketchup('isValid')) {
-			var action = $(this).attr('action');
-			$.ajax({
-				url: action,
-				type: 'POST',
-				data: {
-					email: $('#address').val()
-				},
-				success: function(data){
-					$('#result').html(data);
-				},
-				error: function() {
-					$('#result').html('Sorry, an error occurred.');
-				}
-			});
-		}
-		return false;
-	});
-	$('#aboutMainBtn').addClass('active');
-});
-</script>
-</body>
-</html>

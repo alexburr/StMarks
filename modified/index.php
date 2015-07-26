@@ -1,10 +1,4 @@
 ﻿<?php include_once("includes/header.php"); ?>
-<body>
-<?php include_once("includes/main-nav.php"); ?>
-<div class="homepage-head">
-	<?php include_once("includes/banner.php"); ?>
-</div>
-
 <!--UPCOMING EVENT-->
 <div class="highlight-bg has-margin-bottom">
   <div class="container event-cta">
@@ -273,29 +267,4 @@
   </div>
 </div>
 <!-- // END OUR MINISTRIES--> 
-
-<!-- SUBSCRIBE -->
-<div class="highlight-bg">
-  <div class="container">
-    <div class="row">
-      <form action="subscribe.php" method="post" class="form subscribe-form" role="form" id="subscribeForm">
-        <div class="form-group col-md-3 hidden-sm">
-          <h5 class="susbcribe-head"> SUBSCRIBE <span>TO OUR NEWSLETTER</span></h5>
-        </div>
-        <div class="form-group col-sm-8 col-md-6">
-          <label class="sr-only">Email address</label>
-          <input type="email" class="form-control input-lg" placeholder="Enter email" name="email" id="address" data-validate="validate(required, email)" required>
-          <span class="help-block" id="result"></span> </div>
-        <div class="form-group col-sm-4 col-md-3">
-          <button type="submit" class="btn btn-lg btn-primary btn-block">Subscribe Now →</button>
-        </div>
-      </form>
-    </div>
-  </div>
-</div>
-<!-- END SUBSCRIBE --> 
-
 <?php include_once("includes/footer.php"); ?>
-<script src="js/home.js"></script> 
-</body>
-</html>
