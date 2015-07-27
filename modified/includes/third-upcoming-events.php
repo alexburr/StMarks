@@ -1,4 +1,3 @@
-<!-- MAKE DYNAMIC-->
 <!-- UPCOMING EVENTS -->
 <?php 
 	/*$sql = mysql_query($dbConfig['queryEvents']);*/
